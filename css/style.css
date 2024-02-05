@@ -1,0 +1,47 @@
+.nav{
+    list-style: none;
+    text-align: center;
+}
+.p-text{
+    font-size:medium;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    margin-top: 50px;
+}
+#span1{
+    color:blue
+}
+
+.div1 {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 600px;
+    text-align: center;
+}
+.gallery_text{
+    font-size: large;
+    font-family: "Papyrus"; 
+    font-weight:bold;
+}
+#about-text {
+    font-size:medium;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:steelblue
+}
+#about-heading-text{
+color:darkgoldenrod;
+text-align: center;
+margin: 20px;
+;
+}
+#about-p-text {
+    color:steelblue;
+    text-align: center;
+    font-size:small;
+}
+.span2-text{
+    font-style: italic;
+}
